@@ -6,14 +6,14 @@ Forked from https://github.com/edk2-porting/edk2-sm7150
 1. Clone this project
 
 ```bash
-git clone https://github.com/edk2-porting/edk2-sm7150.git --depth=1
-cd edk2-sm7150
+git clone https://github.com/nedokaka/edk2-sweet.git --depth=1 --recurse-submodules --remote-submodules
+cd edk2-sweet
 ```
 
 2. Build this project (only on linux)
 
 ```bash
-bash build.sh
+./sweetbuild.sh
 ```
 
 ## Available Function  
